@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on javascript <br>👯 I’m looking to collaborate in building React Web Applications<br>
+🔭 I’m deep-diving into advanced React concepts like state management and custom hooks. <br>👯 I’m open to collaborating on innovative open-source React projects or hackathons<br>🌱 I’m currently learning Node.js to round out my full-stack JavaScript skills.
 
 
 ## 🌐 Socials:
